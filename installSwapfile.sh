@@ -1,8 +1,4 @@
 #!/bin/bash
-# Copyright 2017-2019 JetsonHacks
-# MIT License
-# Create a swap file and set up permissions
-# If a parameter is passed, it should be the place to create the swapfile
 set -e
 SWAPDIRECTORY="/mnt"
 # Ubuntu recommends 6GB for 4GB of memory when using suspend
