@@ -1,8 +1,4 @@
 #!/bin/bash
-# installDependencies.sh
-# Install dependencies for  the Intel Realsense library librealsense2 on a Jetson Nano Developer Kit
-# Copyright (c) 2016-19 Jetsonhacks 
-# MIT License
 red=`tput setaf 1`
 green=`tput setaf 2`
 reset=`tput sgr0`
