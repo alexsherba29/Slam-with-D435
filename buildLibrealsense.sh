@@ -1,9 +1,4 @@
 #!/bin/bash
-# Builds the Intel Realsense library librealsense on a Jetson Nano Development Kit
-# Copyright (c) 2016-19 Jetsonhacks 
-# MIT License
-
-# Jetson Nano; L4T 32.2.3
 
 LIBREALSENSE_DIRECTORY=${HOME}/librealsense
 LIBREALSENSE_VERSION=v2.31.0
