@@ -11,6 +11,7 @@ reboot
 2) Install Librealsense library 
 ```bash
 cd Slam-with-D435
+./installDependencies.sh
 ./installLibrealsense.sh
 ./buildLibrealsense.sh
 ```
