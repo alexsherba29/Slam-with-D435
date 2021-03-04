@@ -1,7 +1,4 @@
 #!/bin/bash
-# Install Intel realsense-ros on Jetson Nano Developer Kit
-# Copyright (c) 2017-2019 Jetsonhacks 
-# MIT License
 # Usage:
 # ./installRealSenseROS.sh <catkin workspace>
 # If <catkin workspace> is omitted "~/catkin_ws" assumed
