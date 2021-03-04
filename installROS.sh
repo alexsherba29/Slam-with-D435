@@ -1,9 +1,4 @@
 #!/bin/bash
-# Install Robot Operating System (ROS) on NVIDIA Jetson Nano Developer Kit
-# Maintainer of ARM builds for ROS is http://answers.ros.org/users/1034/ahendrix/
-# Information from:
-# http://wiki.ros.org/melodic/Installation/UbuntuARM
-
 # Red is 1
 # Green is 2
 # Reset is sgr0
